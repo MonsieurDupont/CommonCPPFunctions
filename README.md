@@ -10,23 +10,23 @@ It also adds a new *multiline editable text box* called **MD Editable Text** tha
 ### Clipboard
 
 - Copy to clipboard 
- 
- ![image](https://user-images.githubusercontent.com/122630849/224508490-7bed4879-7e10-44fd-9add-75f7f25a054b.png)
+  
+  ![image](https://user-images.githubusercontent.com/122630849/224508490-7bed4879-7e10-44fd-9add-75f7f25a054b.png)
 - Paste from clipboard
 
- ![image](https://user-images.githubusercontent.com/122630849/224508510-f92f1e80-de51-4690-9ae5-8771441af056.png)
+  ![image](https://user-images.githubusercontent.com/122630849/224508510-f92f1e80-de51-4690-9ae5-8771441af056.png)
  
 ### File 
 
 - Read file
 
- ![image](https://user-images.githubusercontent.com/122630849/224508534-523f1799-0dde-4052-900f-8127f59b214d.png)
+  ![image](https://user-images.githubusercontent.com/122630849/224508534-523f1799-0dde-4052-900f-8127f59b214d.png)
 - Save file
 
- ![image](https://user-images.githubusercontent.com/122630849/224508549-37daf0f4-2ec4-4f18-ab7e-f4bb331fa66d.png)
+  ![image](https://user-images.githubusercontent.com/122630849/224508549-37daf0f4-2ec4-4f18-ab7e-f4bb331fa66d.png)
 - Delete file
 
- ![image](https://user-images.githubusercontent.com/122630849/224508567-f3d1037c-ba86-4e9e-814f-3e2cd215b6d8.png)
+  ![image](https://user-images.githubusercontent.com/122630849/224508567-f3d1037c-ba86-4e9e-814f-3e2cd215b6d8.png)
 
 ### MD Editable text box
 
@@ -48,7 +48,7 @@ This text box can be added via UMG and is the same as a normal multiline editabl
 - - Deletes the current selected text
 - Clear selection
 
- ![image](https://user-images.githubusercontent.com/122630849/224508737-00ecf7d3-86bb-46a8-ae09-29e5c496c368.png)
+  ![image](https://user-images.githubusercontent.com/122630849/224508737-00ecf7d3-86bb-46a8-ae09-29e5c496c368.png)
 - - Clears the current selection
 - Is any text selected
 
