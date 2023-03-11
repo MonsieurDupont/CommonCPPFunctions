@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-CommonCPPFunctions.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\xdTro\Documents\Unreal Projects\GetSelectedText\Intermediate\Build\Win64\GetSelectedTextEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\xdTro\Documents\Unreal Projects\GetSelectedText\Plugins\CommonCPPFunctions\Intermediate\Build\Win64\UnrealEditor\Development\CommonCPPFunctions\Module.CommonCPPFunctions.cpp.obj"
+"C:\Users\xdTro\Documents\Unreal Projects\GetSelectedText\Plugins\CommonCPPFunctions\Intermediate\Build\Win64\UnrealEditor\Development\CommonCPPFunctions\Default.rc2.res"
+/OUT:"C:\Users\xdTro\Documents\Unreal Projects\GetSelectedText\Plugins\CommonCPPFunctions\Intermediate\Build\Win64\UnrealEditor\Development\CommonCPPFunctions\UnrealEditor-CommonCPPFunctions.lib"

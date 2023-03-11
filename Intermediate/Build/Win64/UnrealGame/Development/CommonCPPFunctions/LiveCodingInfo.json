@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.CommonCPPFunctions.cpp.obj": [
+			"CommonCPPFunctions.init.gen.cpp.obj",
+			"CommonCPPFunctionsBPLibrary.gen.cpp.obj",
+			"MDMultiLineEditableText.gen.cpp.obj",
+			"CommonCPPFunctions.cpp.obj",
+			"CommonCPPFunctionsBPLibrary.cpp.obj",
+			"MDMultiLineEditableText.cpp.obj"
+		]
+	}
+}
