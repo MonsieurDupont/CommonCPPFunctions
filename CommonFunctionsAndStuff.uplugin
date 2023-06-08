@@ -2,7 +2,7 @@
 	"FileVersion": 3,
 	"Version": 1,
 	"VersionName": "1.0",
-	"FriendlyName": "CommonCPPFunctions",
+	"FriendlyName": "CommonFunctionsAndStuff",
 	"Description": "",
 	"Category": "Other",
 	"CreatedBy": "Monsieur Dupond",
@@ -16,7 +16,7 @@
 	"Installed": false,
 	"Modules": [
 		{
-			"Name": "CommonCPPFunctions",
+			"Name": "CommonFunctionsAndStuff",
 			"Type": "Runtime",
 			"LoadingPhase": "PreLoadingScreen"
 		}
